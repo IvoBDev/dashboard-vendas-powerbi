@@ -1,0 +1,19 @@
+﻿ProdutoID,Produto,Categoria,PrecoLista,MargemBase
+PR001,Notebook Essencial,Eletrônicos,3200,0.2
+PR002,Monitor 24 pol.,Eletrônicos,850,0.27
+PR003,Teclado sem fio,Eletrônicos,160,0.32
+PR004,Mouse ergonômico,Eletrônicos,120,0.35
+PR005,Headset profissional,Eletrônicos,290,0.28
+PR006,Webcam HD,Eletrônicos,230,0.3
+PR007,Cadeira ergonômica,Escritório,980,0.24
+PR008,Mesa compacta,Escritório,620,0.22
+PR009,Suporte para notebook,Escritório,140,0.36
+PR010,Luminária de mesa,Escritório,110,0.34
+PR011,Hub USB-C,Acessórios,180,0.31
+PR012,Carregador universal,Acessórios,150,0.29
+PR013,Mochila para notebook,Acessórios,240,0.33
+PR014,Filtro de linha,Acessórios,85,0.25
+PR015,Roteador Wi-Fi,Rede,390,0.26
+PR016,Switch 8 portas,Rede,310,0.23
+PR017,Cabo de rede 10m,Rede,45,0.38
+PR018,Adaptador de rede,Rede,95,0.3
